@@ -17,11 +17,11 @@
 	
 1. Finally run your compiller:
 
-	-Execution **with** *input* file :
+	- Execution **with** *input* file :
 	
   	  	./myParser.exe input
     
-	-Execution **without** *input* file :
+	- Execution **without** *input* file :
 	
     		./myParser.exe
     
