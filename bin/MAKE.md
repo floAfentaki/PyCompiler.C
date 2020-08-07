@@ -22,7 +22,6 @@
   	  	`./myParser.exe input`
     
 	- Execution **without** *input* file :
-	
-    		`./myParser.exe`
+		`./myParser.exe`
     
     
