@@ -19,10 +19,10 @@
 
 	- Execution **with** *input* file :
 	
-  	  	./myParser.exe input
+  	  	`./myParser.exe input`
     
 	- Execution **without** *input* file :
 	
-    		./myParser.exe
+    		`./myParser.exe`
     
     
